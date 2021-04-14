@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #204862;
+}
+
+.for_tit {
+    color: #fff;
+    text-align: center;
+}
+
+.form_reg {
+    width: 95%;
+    max-width: 500px;
+}
