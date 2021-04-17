@@ -33,3 +33,21 @@
     top: 200px;
     background-color: #555;
 }
+
+#text_01 {
+    margin-left: 80px;
+}
+
+#arm_p1 {
+    width: 220px;
+    aspect-ratio: auto 220 / 146;
+    height: 146px;
+    margin-left: 80px;
+}
+
+#text_02 {
+    margin-left: 80px;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
