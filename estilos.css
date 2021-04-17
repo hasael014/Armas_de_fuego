@@ -19,22 +19,22 @@
     }
     
     #h_0 {
-        top: 20px;
+        top: 600px;
         background-color: #4caf4f;
     }
     
     #h_1 {
-        top: 60px;
+        top: 640px;
         background-color: #2195f3;
     }
     
     #h_2 {
-        top: 125px;
+        top: 705px;
         background-color: #f44336;
     }
     
     #h_3 {
-        top: 170px;
+        top: 750px;
         background-color: rgb(110, 85, 252);
     }
     
@@ -48,6 +48,8 @@
         font-family: sans-serif;
         text-align: justify;
     }
+    
+    #text_02 h2 {}
     
     #arm_p1 {
         width: 330px;
