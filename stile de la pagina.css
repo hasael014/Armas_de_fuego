@@ -9,11 +9,13 @@ body {
 }
 
 .for_tit {
-    color: #fff;
+    color: black;
     text-align: center;
 }
 
 .form_reg {
     width: 95%;
     max-width: 500px;
+    background: white;
+    border-radius: 7px;
 }
