@@ -1,71 +1,97 @@
-#navflo_00 a {
-    position: fixed;
-    left: -104px;
-    transition: 0.3s;
-    padding: 15px;
-    width: 100px;
-    text-decoration: none;
-    font-size: 20px;
-    color: rgba(255, 255, 255, 0.699);
-    border-radius: 0 5px 5px 0;
-}
-
-body {
-    background-color: #00000017;
-}
-
-#navflo_00 a:hover {
-    left: 0;
-}
-
-#h_0 {
-    top: 400px;
-    background-color: #4caf4f;
-}
-
-#h_1 {
-    top: 440px;
-    background-color: #2195f3;
-}
-
-#h_2 {
-    top: 480px;
-    background-color: #f44336;
-}
-
-#h_3 {
-    top: 525px;
-    background-color: rgb(110, 85, 252);
-}
-
-#hr-titulo {
-    margin-right: 350px;
-    margin-left: 350px;
-}
-
-.text_00 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-#text_01 {
-    color: #000000c4;
-    margin-left: 80px;
-    font-family: sans-serif;
-    text-align: justify;
-}
-
-#hr-titulo-page_02 {
-    margin-left: 300px;
-    margin-right: 300px;
-}
-
-#idicasiones {
-    margin-left: 20px;
-}
-
-#arm_p1 {
-    width: 330px;
-    height: 210px;
-    float: right;
-    margin-left: 10px;
-}
+    #navflo_00 a {
+        position: fixed;
+        left: -104px;
+        transition: 0.3s;
+        padding: 15px;
+        width: 100px;
+        text-decoration: none;
+        font-size: 20px;
+        color: rgba(255, 255, 255, 0.699);
+        border-radius: 0 5px 5px 0;
+    }
+    
+    body {
+        background-color: #00000017;
+    }
+    
+    #navflo_00 a:hover {
+        left: 0;
+    }
+    
+    #h_0 {
+        top: 400px;
+        background-color: #4caf4f;
+    }
+    
+    #h_1 {
+        top: 440px;
+        background-color: #2195f3;
+    }
+    
+    #h_2 {
+        top: 480px;
+        background-color: #f44336;
+    }
+    
+    #h_3 {
+        top: 525px;
+        background-color: rgb(110, 85, 252);
+    }
+    
+    #hr-titulo {
+        margin-right: 350px;
+        margin-left: 350px;
+    }
+    
+    .text_00 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    #text_01 {
+        color: #000000c4;
+        margin-left: 80px;
+        font-family: sans-serif;
+        text-align: justify;
+    }
+    
+    #hr-titulo-page_02 {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+    
+    #idicasiones {
+        margin-left: 20px;
+    }
+    
+    #arm_p1 {
+        width: 330px;
+        height: 210px;
+        float: right;
+        margin-left: 10px;
+    }
+    
+    @media only screen and (min-width: 20px) and (max-width: 968px) {
+        #text_01 {
+            margin-left: 25px;
+            margin-right: 10px;
+        }
+        #arm_p1 {
+            width: 250px;
+            height: 200px;
+        }
+        #navflo_00 a:hover {
+            left: 0;
+        }
+        #h_0 {
+            top: 560px;
+            background-color: #4caf4f;
+        }
+        #h_1 {
+            top: 600px;
+            background-color: #2195f3;
+        }
+        #h_2 {
+            top: 645px;
+            background-color: #f44336;
+        }
+    }
