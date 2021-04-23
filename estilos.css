@@ -1,6 +1,6 @@
 #navflo_00 a {
     position: fixed;
-    left: -89px;
+    left: -104px;
     transition: 0.3s;
     padding: 15px;
     width: 100px;
@@ -59,7 +59,9 @@ body {
     margin-right: 300px;
 }
 
-#text_02 h2 {}
+#idicasiones {
+    margin-left: 20px;
+}
 
 #arm_p1 {
     width: 330px;
