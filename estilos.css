@@ -1,6 +1,6 @@
 #navflo_00 a {
-    position: absolute;
-    left: -80px;
+    position: fixed;
+    left: -89px;
     transition: 0.3s;
     padding: 15px;
     width: 100px;
@@ -19,22 +19,22 @@ body {
 }
 
 #h_0 {
-    top: 600px;
+    top: 400px;
     background-color: #4caf4f;
 }
 
 #h_1 {
-    top: 640px;
+    top: 440px;
     background-color: #2195f3;
 }
 
 #h_2 {
-    top: 705px;
+    top: 480px;
     background-color: #f44336;
 }
 
 #h_3 {
-    top: 750px;
+    top: 525px;
     background-color: rgb(110, 85, 252);
 }
 
