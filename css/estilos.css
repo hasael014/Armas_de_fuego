@@ -62,7 +62,8 @@ body {
     font-family: sans-serif;
     text-align: justify;
     text-shadow: 2px 2px 5px #111;
-    box-shadow: 2px 2px 10px rgb(4, 4, 4) inset;
+    box-shadow: 2px 2px 10px rgb(4, 4, 4);
+    padding: 30px;
 }
 
 #hr-titulo-page_02 {
@@ -79,6 +80,7 @@ body {
     height: 210px;
     float: right;
     margin-left: 10px;
+    box-shadow: -5px 5px 10px #111;
 }
 
 @media only screen and (min-width: 20px) and (max-width: 1000px) {
